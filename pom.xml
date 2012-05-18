@@ -8,9 +8,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>martinolsen.pensio</groupId>
-    <artifactId>pensio-merchant-api</artifactId>
-    <version>20100929-SNAPSHOT</version>
-    <name>Pensio Merchant API</name>
+    <artifactId>pensio-api-20100929</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>Pensio API v20100929</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
